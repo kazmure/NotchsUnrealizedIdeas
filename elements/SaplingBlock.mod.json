@@ -39,7 +39,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "No creative tab entry"
     },
     "destroyTool": "Not specified",
     "customDrop": {
