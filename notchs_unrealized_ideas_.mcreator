@@ -36,7 +36,6 @@
     "modid": "notchs_unrealized_ideas_",
     "modName": "Notch\u0027s Unrealized Ideas ",
     "version": "1.0.0",
-    "author": "PK, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -46,6 +45,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.notchsunrealizedideas",
     "lockBaseModFiles": false
   },
