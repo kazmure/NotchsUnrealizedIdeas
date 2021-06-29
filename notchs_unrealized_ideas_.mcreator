@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "leaves_block"
+    },
+    {
+      "name": "DirtSlabBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_slab_block"
     }
   ],
   "variable_elements": [],
@@ -43,6 +52,7 @@
   "language_map": {
     "en_us": {
       "block.notchs_unrealized_ideas_.grass_block": "Grass Block",
+      "block.notchs_unrealized_ideas_.dirt_slab_block": "Dirt Slab Block",
       "block.notchs_unrealized_ideas_.leaves_block": "Leaves Block",
       "block.notchs_unrealized_ideas_.dirt_block": "Dirt Block",
       "block.notchs_unrealized_ideas_.cobblestone": "Cobblestone"

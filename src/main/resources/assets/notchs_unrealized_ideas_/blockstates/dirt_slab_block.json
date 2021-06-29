@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "notchs_unrealized_ideas_:block/dirt_slab_block"
+    },
+    "type=top": {
+      "model": "notchs_unrealized_ideas_:block/dirt_slab_block_top"
+    },
+    "type=double": {
+      "model": "notchs_unrealized_ideas_:block/dirt_slab_block_full"
+    }
+  }
+}

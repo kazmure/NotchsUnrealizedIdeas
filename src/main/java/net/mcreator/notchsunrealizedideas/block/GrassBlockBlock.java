@@ -36,7 +36,7 @@ public class GrassBlockBlock extends NotchsUnrealizedIdeasModElements.ModElement
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ORGANIC).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
-					.harvestLevel(1).harvestTool(ToolType.SHOVEL).setRequiresTool());
+					.harvestLevel(0).harvestTool(ToolType.SHOVEL).setRequiresTool());
 			setRegistryName("grass_block");
 		}
 

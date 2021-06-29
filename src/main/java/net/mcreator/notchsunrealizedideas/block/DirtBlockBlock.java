@@ -35,7 +35,7 @@ public class DirtBlockBlock extends NotchsUnrealizedIdeasModElements.ModElement 
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.EARTH).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(1)
+			super(Block.Properties.create(Material.EARTH).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
 					.harvestTool(ToolType.SHOVEL).setRequiresTool());
 			setRegistryName("dirt_block");
 		}
