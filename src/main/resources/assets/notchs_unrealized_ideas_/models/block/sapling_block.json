@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "notchs_unrealized_ideas_:blocks/sapling_oak",
+    "particle": "notchs_unrealized_ideas_:blocks/sapling_oak"
+  }
+}
