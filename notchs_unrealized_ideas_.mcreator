@@ -18,6 +18,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_block"
+    },
+    {
+      "name": "Cobblestone",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblestone"
+    },
+    {
+      "name": "LeavesBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leaves_block"
     }
   ],
   "variable_elements": [],
@@ -25,7 +43,9 @@
   "language_map": {
     "en_us": {
       "block.notchs_unrealized_ideas_.grass_block": "Grass Block",
-      "block.notchs_unrealized_ideas_.dirt_block": "Dirt Block"
+      "block.notchs_unrealized_ideas_.leaves_block": "Leaves Block",
+      "block.notchs_unrealized_ideas_.dirt_block": "Dirt Block",
+      "block.notchs_unrealized_ideas_.cobblestone": "Cobblestone"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "up": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "north": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "east": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "south": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "west": "notchs_unrealized_ideas_:blocks/cobblestone",
+    "particle": "notchs_unrealized_ideas_:blocks/cobblestone"
+  }
+}
