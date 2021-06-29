@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sapling_block"
+    },
+    {
+      "name": "TNTSlabBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tnt_slab_block"
     }
   ],
   "variable_elements": [],
@@ -62,6 +71,7 @@
     "en_us": {
       "block.notchs_unrealized_ideas_.grass_block": "Grass Block",
       "block.notchs_unrealized_ideas_.dirt_slab_block": "Dirt Slab Block",
+      "block.notchs_unrealized_ideas_.tnt_slab_block": "TNT Slab Block",
       "block.notchs_unrealized_ideas_.leaves_block": "Leaves Block",
       "block.notchs_unrealized_ideas_.dirt_block": "Dirt Block",
       "block.notchs_unrealized_ideas_.cobblestone": "Cobblestone",

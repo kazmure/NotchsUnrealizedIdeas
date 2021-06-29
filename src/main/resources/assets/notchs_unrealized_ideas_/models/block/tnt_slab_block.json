@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "notchs_unrealized_ideas_:blocks/tnt_bottom",
+    "top": "notchs_unrealized_ideas_:blocks/tnt_top",
+    "side": "notchs_unrealized_ideas_:blocks/tnt_side"
+  }
+}
