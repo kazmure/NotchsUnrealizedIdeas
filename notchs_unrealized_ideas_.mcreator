@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "grass_block"
+    },
+    {
+      "name": "DirtBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_block"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.notchs_unrealized_ideas_.grass_block": "Grass Block"
+      "block.notchs_unrealized_ideas_.grass_block": "Grass Block",
+      "block.notchs_unrealized_ideas_.dirt_block": "Dirt Block"
     }
   },
   "foldersRoot": {

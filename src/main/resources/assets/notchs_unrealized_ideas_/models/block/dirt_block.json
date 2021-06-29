@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "notchs_unrealized_ideas_:blocks/dirt",
+    "up": "notchs_unrealized_ideas_:blocks/dirt",
+    "north": "notchs_unrealized_ideas_:blocks/dirt",
+    "east": "notchs_unrealized_ideas_:blocks/dirt",
+    "south": "notchs_unrealized_ideas_:blocks/dirt",
+    "west": "notchs_unrealized_ideas_:blocks/dirt",
+    "particle": "notchs_unrealized_ideas_:blocks/dirt"
+  }
+}
